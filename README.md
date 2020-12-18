@@ -1,1 +1,1 @@
-Creation d'une application de vente d'appareils photos
+Creation d'une application d'une plateforme de vente d'appareils photos
